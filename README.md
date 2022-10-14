@@ -19,6 +19,7 @@ docker run --rm -ti \
 2. Build
 
 ```
+cd mosaic
 yarn && npx nextron build --win --x64
 ```
 
